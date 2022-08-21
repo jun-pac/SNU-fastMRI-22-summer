@@ -1,0 +1,3 @@
+brain_path: ./input
+knee_path: /path/to/knee
+log_path: .
