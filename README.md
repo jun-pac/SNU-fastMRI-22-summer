@@ -1,4 +1,7 @@
 # SNU-fastMRI-22-summer
+**UPD : We placed 5th in the SNU fastMRI challenge 2022!** <br/>
+(http://fastmri.snu.ac.kr/)
+
 Final SSIM score : 0.9858 (Epoch 34)
 
 
